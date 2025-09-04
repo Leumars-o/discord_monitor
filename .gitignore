@@ -1,0 +1,19 @@
+# Claude Code IDE configuration
+.claude/
+
+# Virtual environments
+realbot_env/
+discord_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
