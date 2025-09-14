@@ -1,6 +1,0 @@
-discord.py-self      # for your burner account
-discord.py              # for the real bot
-fastapi
-uvicorn[standard]==0.23.0
-python-dotenv
-httpx
